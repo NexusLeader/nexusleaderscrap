@@ -1,0 +1,37 @@
+Application: HOI4 
+Version: Musketeer v1.17.3.0.3a95 
+Date/Time: 2025-12-24 16:24:34
+
+Unhandled Exception C0000005 (EXCEPTION_ACCESS_VIOLATION) at address 0x00007FF7F255A7DF
+
+Stack Trace: 
+  1    hoi4.exe                 PHYSFS_swapSLE32 (+ 1287631)
+  2    hoi4.exe                 PHYSFS_swapSLE32 (+ 1287873)
+  3    hoi4.exe                 PHYSFS_swapSLE32 (+ 1281832)
+  4    hoi4.exe                 PHYSFS_swapULE64 (+ 33044041)
+  5    hoi4.exe                 PHYSFS_swapULE64 (+ 33044661)
+  6    hoi4.exe                 PHYSFS_swapULE64 (+ 33044544)
+  7    hoi4.exe                 PHYSFS_swapSLE32 (+ 9601)
+  8    hoi4.exe                 PHYSFS_swapSLE32 (+ 8136)
+  9    hoi4.exe                 PHYSFS_swapULE64 (+ 33806799)
+  10   hoi4.exe                 PHYSFS_swapULE64 (+ 33808263)
+  11   hoi4.exe                 PHYSFS_swapULE64 (+ 33804498)
+  12   hoi4.exe                 PHYSFS_swapSLE32 (+ 474606)
+  13   hoi4.exe                 PHYSFS_swapSLE32 (+ 55912)
+  14   hoi4.exe                 PHYSFS_swapULE64 (+ 33559080)
+  15   hoi4.exe                 PHYSFS_swapULE64 (+ 33520508)
+  16   hoi4.exe                 PHYSFS_swapSLE32 (+ 58399)
+  17   hoi4.exe                 PHYSFS_swapULE64 (+ 33157177)
+  18   hoi4.exe                 PHYSFS_swapULE64 (+ 21409193)
+  19   hoi4.exe                 PHYSFS_swapULE64 (+ 9750656)
+  20   hoi4.exe                 PHYSFS_swapULE64 (+ 12184617)
+  21   hoi4.exe                 PHYSFS_swapULE64 (+ 9612208)
+  22   hoi4.exe                 PHYSFS_swapULE64 (+ 9601276)
+  23   hoi4.exe                 PHYSFS_swapULE64 (+ 32975020)
+  24   hoi4.exe                 PHYSFS_swapULE64 (+ 32973002)
+  25   hoi4.exe                 (function-name not available) (+ 0)
+  26   hoi4.exe                 PHYSFS_writeULE64 (+ 456866)
+  27   hoi4.exe                 PHYSFS_writeULE64 (+ 558)
+  28   KERNEL32.DLL             (function-name not available) (+ 0)
+  29   ntdll.dll                (function-name not available) (+ 0)
+  30   ntdll.dll                (function-name not available) (+ 0)

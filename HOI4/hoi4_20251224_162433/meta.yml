@@ -1,0 +1,26 @@
+# Crash Information
+AppName: HOI4 
+AppVersion: Musketeer v1.17.3.0.3a95 
+SCMBranch: HEAD 
+SCMCommit: 3a95f751463dcafbc314704c9ef6768d7859a19e 
+SCMTimeStamp: "2025-12-09 16:18:53 +0000" 
+DateTime: "2025-12-24 16:24:33 -0600" 
+BuildType: Release 
+Platform: Windows 
+Architecture: 64-bit 
+OperatingSystem: Windows 11 x86_64 
+SystemLanguage: en 
+CPUModel: Intel(R) N200 
+CPUSpeed: 0 
+CPUPhysicalCores: 4 
+CPULogicalCores: 4 
+SystemMemory: 16039 
+LaunchArguments: --gdpr-compliant --paradox-account-userid="" --pdx-launcher-session-token="" 
+
+# Application Specific Data 
+IsLiveBuild: true 
+DataChecksum: 39304361bf95e892ce2aa9336c856a4b
+AppChecksum: d41d8cd98f00b204e9800998ecf8427e
+HasMods: true
+Mods: Better Mechanics  : Optimization Better Mechanics : Camera Old World Blues War Provoke
+IsOldSave: false

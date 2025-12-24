@@ -1,0 +1,64 @@
+[16:21:34][no_game_date][systemsettings.cpp:163]: OS: Windows 11 x86_64
+[16:21:34][no_game_date][systemsettings.cpp:164]: OS Lang: en
+[16:21:34][no_game_date][systemsettings.cpp:165]: CPU Model: Intel(R) N200
+[16:21:34][no_game_date][systemsettings.cpp:166]: Number of cores: 4 (4)
+[16:21:34][no_game_date][systemsettings.cpp:168]: Estimated CPU speed: 0MHz
+[16:21:34][no_game_date][systemsettings.cpp:169]: System memory: 16039MB
+[16:21:34][no_game_date][gfx_dx11.cpp:3480]: GetGraphicsSettings for Adapter: 0
+[16:21:34][no_game_date][gfx_dx11.cpp:3513]: Found Adapter: Intel(R) UHD Graphics
+[16:21:34][no_game_date][gfx_dx11.cpp:3536]: Using Adapter [0] to check for multi-sampling support:
+[16:21:34][no_game_date][gfx_dx11.cpp:3574]: Found available multisampling mode: 2 at Quality: 0
+[16:21:34][no_game_date][gfx_dx11.cpp:3574]: Found available multisampling mode: 4 at Quality: 0
+[16:21:34][no_game_date][gfx_dx11.cpp:3574]: Found available multisampling mode: 8 at Quality: 0
+[16:21:34][no_game_date][graphicssettings.cpp:172]: 	2 samples supported.
+[16:21:34][no_game_date][graphicssettings.cpp:172]: 	4 samples supported.
+[16:21:34][no_game_date][graphicssettings.cpp:172]: 	8 samples supported.
+[16:21:34][no_game_date][graphicssettings.cpp:210]: Video adapter: Intel(R) UHD Graphics
+[16:21:34][no_game_date][graphicssettings.cpp:211]: Video driver: DirectX 11
+[16:21:34][no_game_date][graphicssettings.cpp:212]: Video driver version: 0.0.0.0
+[16:21:34][no_game_date][graphicssettings.cpp:213]: Video memory: 128
+[16:21:34][no_game_date][graphicssettings.cpp:214]: Support for Anisotropic filtering found.
+[16:21:34][no_game_date][graphicssettings.cpp:218]: 	Max Anisotropic filtering supported: 16
+[16:21:34][no_game_date][graphicssettings.cpp:219]: 	Anisotropic filtering set to: 4
+[16:21:38][no_game_date][main.cpp:2102]: Creating application...
+[16:21:39][no_game_date][gameapplication.cpp:1236]: Initializing application...
+[16:21:42][no_game_date][gameapplication.cpp:1242]: Done initializing application
+[16:21:42][no_game_date][gameapplication.cpp:1245]: Loading cursor...
+[16:21:42][no_game_date][graphicssettings.cpp:747]: Using multisampling: 4
+[16:21:42][no_game_date][graphics.cpp:972]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=yes
+	RefreshRate=60
+	Resolution=1366x768
+	Renderer=DirectX 11
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 40
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 640 480 60
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 40
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 800 600 60
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1024 768 40
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1024 768 60
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 600 40
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 600 60
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 720 40
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 720 60
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 768 40
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1280 768 60
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1360 768 40
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1360 768 60
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1366 768 40
+[16:21:43][no_game_date][graphicssettings.cpp:715]: Usable res: 1366 768 60
+[16:21:43][no_game_date][graphics.cpp:1007]: Done creating device.
+[16:22:51][no_game_date][gameapplication.cpp:1491]: Version: Musketeer v1.17.3.0.3a95 (6a4b) build time: Dec  9 2025 16:27:01
+[16:22:51][no_game_date][gameapplication.cpp:1496]: Active DLC Count: 7
+[16:22:51][no_game_date][gameapplication.cpp:1497]: Active Mod Count: 4
+[16:22:51][no_game_date][gameapplication.cpp:1501]: Active DLC: Anniversary Pack
+[16:22:51][no_game_date][gameapplication.cpp:1501]: Active DLC: Arms Against Tyranny
+[16:22:51][no_game_date][gameapplication.cpp:1501]: Active DLC: Historical German Portraits
+[16:22:51][no_game_date][gameapplication.cpp:1501]: Active DLC: La Resistance
+[16:22:51][no_game_date][gameapplication.cpp:1501]: Active DLC: No Step Back
+[16:22:51][no_game_date][gameapplication.cpp:1501]: Active DLC: Poland: United and Ready
+[16:22:51][no_game_date][gameapplication.cpp:1501]: Active DLC: Rocket Launcher Unit Pack
+[16:22:51][no_game_date][gameapplication.cpp:1506]: Active Mod: Better Mechanics  : Optimization
+[16:22:51][no_game_date][gameapplication.cpp:1506]: Active Mod: Better Mechanics : Camera
+[16:22:51][no_game_date][gameapplication.cpp:1506]: Active Mod: Old World Blues
+[16:22:51][no_game_date][gameapplication.cpp:1506]: Active Mod: War Provoke
+[16:24:06][2275.01.01.12][graphicssettings.cpp:747]: Using multisampling: 4

@@ -1,0 +1,43 @@
+[16:21:34][no_game_date][dlc.cpp:222]: Invalid supported_version in  file: mod/ugc_3009241301.mod line: 8
+[16:21:34][no_game_date][dlc.cpp:222]: Invalid supported_version in  file: mod/ugc_3009437701.mod line: 7
+[16:22:19][no_game_date][technologytemplate.cpp:791]: Technology "artful_positioning_doctrine" has two more outgoing xor paths in folder "fallout_air_doctrine_folder", only the first will be shown as XOR in the tree
+[16:22:19][no_game_date][technologytemplate.cpp:791]: Technology "tactics_doctrine_tech" has two more outgoing xor paths in folder "fallout_perks_doctrine_folder", only the first will be shown as XOR in the tree
+[16:22:19][no_game_date][technologytemplate.cpp:791]: Technology "tactics_spec_ops_cap_tech" has two more outgoing xor paths in folder "fallout_perks_doctrine_folder", only the first will be shown as XOR in the tree
+[16:22:32][no_game_date][occupationlawdatabase.cpp:207]: two main starting laws
+[16:22:32][no_game_date][occupationlawdatabase.cpp:285]: no missing garrison law is defined. Using default law
+[16:22:32][no_game_date][trigger.cpp:700]: Invalid trigger 'add' in common/scripted_diplomatic_actions/war_provoke_diplomatic_action.txt line : 69
+[16:22:32][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: add, near line: 69" in file: "common/scripted_diplomatic_actions/war_provoke_diplomatic_action.txt" near line: 70
+[16:22:32][no_game_date][trigger.cpp:700]: Invalid trigger 'modifier' in common/scripted_diplomatic_actions/war_provoke_diplomatic_action.txt line : 71
+[16:22:32][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: modifier, near line: 71" in file: "common/scripted_diplomatic_actions/war_provoke_diplomatic_action.txt" near line: 77
+[16:22:33][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_flag in events/trade_node_events.txt line : 35
+[16:22:33][no_game_date][triggerimplementation.cpp:9803]: common/scripted_diplomatic_actions/war_provoke_diplomatic_action.txt:10: has_game_rule: game rule option ALLOWED_FOR_AI is not valid for the rule ai_war_provoke
+[16:23:20][2275.01.01.12][gfx_dx11.cpp:83]: Failed to create 2D texture (height=2048, width=2048, format=45, mips=1: Not enough memory resources are available to complete this operation.
+ (0x8007000e)
+[16:23:28][2275.01.01.12][gfx_dx11.cpp:83]: Failed to create 2D texture (height=768, width=1366, format=87, mips=1: Not enough memory resources are available to complete this operation.
+ (0x8007000e)
+[16:23:36][2275.01.01.12][gfx_dx11.cpp:83]: Failed to create 2D texture (height=768, width=1366, format=87, mips=1: Not enough memory resources are available to complete this operation.
+ (0x8007000e)
+[16:23:37][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/FX/shadowblur.shader. File may not read/write correctly.
+[16:23:38][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: shadercache/dx11_win32/vs_5_0/000800008AA0000003115256.scache. File may not read/write correctly.
+[16:23:39][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: shadercache/dx11_win32/vs_5_0/000800008AA0000003115256.bin. File may not read/write correctly.
+[16:23:40][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: shadercache/dx11_win32/ps_5_0/000800001ED000002665B213.scache. File may not read/write correctly.
+[16:23:41][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: shadercache/dx11_win32/ps_5_0/000800001ED000002665B213.bin. File may not read/write correctly.
+[16:23:42][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: shadercache/dx11_win32/vs_5_0/000800008AA0000003115256.scache. File may not read/write correctly.
+[16:23:43][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/maparrows/railway_mask_damaged_thin.dds. File may not read/write correctly.
+[16:23:44][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/maparrows/railway_mask_damaged_thick.dds. File may not read/write correctly.
+[16:23:45][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/maparrows/railway_pattern.dds. File may not read/write correctly.
+[16:23:46][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/maparrows/railway_pattern_thin.dds. File may not read/write correctly.
+[16:23:47][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/maparrows/railway_pattern_thick.dds. File may not read/write correctly.
+[16:23:48][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/maparrows/railway_pattern_damaged.dds. File may not read/write correctly.
+[16:23:49][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/maparrows/railway_pattern_damaged_thin.dds. File may not read/write correctly.
+[16:23:50][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/maparrows/railway_pattern_damaged_thick.dds. File may not read/write correctly.
+[16:24:13][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/interface/mapicons/mapicon_building_navalbase.dds. File may not read/write correctly.
+[16:24:18][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/interface/equipmentdesigner/planes/Niche_icon_strip.dds. File may not read/write correctly.
+[16:24:19][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/interface/idea_slot_aircraft_manufacturer.dds. File may not read/write correctly.
+[16:24:20][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/interface/equipmentdesigner/planes/generic_plane_blueprint_background.dds. File may not read/write correctly.
+[16:24:21][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/interface/strategicair/wing_types_map.dds. File may not read/write correctly.
+[16:24:22][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/3dviewenv/plane_designer_3d_preview.txt. File may not read/write correctly.
+[16:24:23][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/interface/strategicair/adjuster_air_superiority.dds. File may not read/write correctly.
+[16:24:24][2275.01.01.12][virtualfilesystem_physfs.cpp:1257]: Error setting buffer for file: gfx/interface/strategicair/adjuster_cas.dds. File may not read/write correctly.
+[16:24:32][2275.01.01.12][gfx_dx11.cpp:83]: Failed to create 2D texture (height=783, width=1343, format=87, mips=1: Not enough memory resources are available to complete this operation.
+ (0x8007000e)
